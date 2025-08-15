@@ -2,7 +2,10 @@
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" alt="Bitcoin GIF"/>
 </p>
 
-<h1 align="center">Hi 🍸, I'm Abdelrahman Khaled</h1>
+<p align="center">
+  <img src="https://see.fontimg.com/api/renderfont4/8VzDg/eyJyIjoiZnMiLCJoIjo4MiwidyI6MTAwMCwiZnMiOjgyLCJmZ2MiOiIjRkQ5MDAwIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/QWJkZWxyYWhtYW4gS2hhbGVk/blockchain-demo.png" alt="Neon Gold Name" />
+</p>
+
 <h3 align="center">🚀 Web3 Developer | Blockchain Enthusiast | Smart Contracts Expert</h3>
 
 ---
