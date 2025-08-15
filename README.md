@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" alt="Bitcoin GIF"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Abdelrahman Khaled</h1>
+<h1 align="center">Hi 🍸, I'm Abdelrahman Khaled</h1>
 <h3 align="center">🚀 Web3 Developer | Blockchain Enthusiast | Smart Contracts Expert</h3>
 
 ---
