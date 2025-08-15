@@ -39,6 +39,3 @@
 ---
 
 ⭐ Check out my projects and let's collaborate!
-
-انا عاوز زي دي بظبط بس خلي اسمي بقي كده بينور كده فاهم
-
